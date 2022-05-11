@@ -1,0 +1,16 @@
+.vscode/
+apex/
+code/
+data/
+disk/
+end-point-detection/
+gst-jinhan-eng/
+gst-syang-kor/
+GST-tacotron/
+smartTTS/
+mellotron/
+SMART-Single_Emotional_TTS
+melgan/
+melgan-neurips/
+
+*.txt
